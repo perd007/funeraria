@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_clientes" value="name:nombres;datatype:string,name:cedula;datatype:int,name:edad;datatype:int,name:telefono;datatype:string,name:ciudad;datatype:string,name:direccion;datatype:string,name:observaciones;datatype:string,name:id;datatype:int" />
+	<infoitem key="UD_familiares" value="name:id;datatype:int,name:familiar;datatype:int,name:nombres;datatype:string,name:dia;datatype:int,name:mes;datatype:string,name:ano;datatype:int" />
+	<infoitem key="UD_familiares1" value="name:id;datatype:int,name:familiar;datatype:int,name:nombres;datatype:string,name:edad;datatype:int,name:dia;datatype:int,name:mes;datatype:string,name:ano;datatype:int,name:puesto;datatype:int" />
+	<infoitem key="UD_familiares2" value="name:id;datatype:int,name:familiar;datatype:int,name:nombres;datatype:string,name:edad;datatype:int,name:dia;datatype:int,name:mes;datatype:string,name:ano;datatype:int,name:puesto;datatype:int" />
+	<infoitem key="UD_familiares3" value="name:id;datatype:int,name:familiar;datatype:int,name:nombres;datatype:string,name:edad;datatype:int,name:dia;datatype:int,name:mes;datatype:string,name:ano;datatype:int,name:puesto;datatype:int" />
+	<infoitem key="UD_familiares5" value="name:id;datatype:int,name:familiar;datatype:int,name:nombres;datatype:string,name:edad;datatype:int,name:dia;datatype:int,name:mes;datatype:string,name:ano;datatype:int,name:puesto;datatype:int" />
+	<infoitem key="UD_familiares6" value="name:id;datatype:int,name:familiar;datatype:int,name:nombres;datatype:string,name:edad;datatype:int,name:dia;datatype:int,name:mes;datatype:string,name:ano;datatype:int,name:puesto;datatype:int" />
+	<infoitem key="UD_familiares7" value="name:id;datatype:int,name:familiar;datatype:int,name:nombres;datatype:string,name:edad;datatype:int,name:dia;datatype:int,name:mes;datatype:string,name:ano;datatype:int,name:puesto;datatype:int" />
+</info>
